@@ -1,0 +1,11 @@
+Artificial intelligence learns patterns from data.
+A language model predicts the next token.
+Transformers use attention to focus on context.
+Python is a programming language used to build tools.
+Machine learning trains on examples and updates weights.
+Code generation helps developers create functions faster.
+The future of AI is interactive, useful, and creative.
+Generative models can produce text, code, and ideas.
+A transformer uses self-attention to understand context.
+Large language models are trained on huge corpora.
+This tiny model is an educational version of the same idea.
